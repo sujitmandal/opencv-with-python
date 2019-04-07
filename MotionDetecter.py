@@ -4,7 +4,7 @@ import pandas
 import os
 from datetime import datetime
 
-#This is create bt SUjit Mandal
+#This is create by SUjit Mandal
 
 first_frame = None
 status_list = [None ,None]
