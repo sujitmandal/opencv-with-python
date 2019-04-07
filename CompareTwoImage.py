@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt 
 
+#This is create bt SUjit Mandal
+
 img_1 = cv2.imread('', 1)  #provide image path for example D:\\Python\\ggggggg.jpg
 img_2 = cv2.imread(' ', 1) #provide image path for example D:\\Python\\ggggggg.jpg
 
