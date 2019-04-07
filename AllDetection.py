@@ -4,7 +4,7 @@ import pandas
 import os
 from datetime import datetime
 
-#This is create bt SUjit Mandal
+#This is create bt Sujit Mandal
 
 first_frame = None
 face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
