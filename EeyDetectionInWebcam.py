@@ -1,7 +1,7 @@
 import cv2
 import os
 
-#This is create bt SUjit Mandal
+#This is create by SUjit Mandal
 
 eye = cv2.CascadeClassifier('haarcascade_eye.xml')
 
