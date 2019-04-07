@@ -5,7 +5,7 @@ import pandas
 from datetime import datetime
 from matplotlib import pyplot as plt
 
-#This is create bt SUjit Mandal
+#This is create by SUjit Mandal
 
 status_list = [None ,None]
 time = []
