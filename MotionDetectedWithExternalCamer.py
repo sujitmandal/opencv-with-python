@@ -4,7 +4,7 @@ import pandas
 import urllib
 from datetime import datetime
 
-#This is create by Sujit Mandal
+#This programe is create by Sujit Mandal
 
 first_frame = None
 status_list = [None ,None]
