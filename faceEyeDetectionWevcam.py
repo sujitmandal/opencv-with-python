@@ -1,6 +1,6 @@
 import cv2
 
-#This is create by Sujit Mandal
+#This programe is create by Sujit Mandal
 
 face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye = cv2.CascadeClassifier('haarcascade_eye.xml')
