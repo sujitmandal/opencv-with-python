@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-#Tfis is Create by Sujit Mandal
+#This programe is create by Sujit Mandal
 
 img = cv2.imread('') #path of the image which is going to be processes
 
