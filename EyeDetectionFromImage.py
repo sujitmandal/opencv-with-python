@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-#This is Create by Sujit Mandal
+#This programe is create by Sujit Mandal
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
