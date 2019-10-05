@@ -12,16 +12,26 @@ So do you want to take your first step in Computer Vision and participate in thi
 6. Different Colors Threshold.
 
 	Requirement’s:
+
 •	Python 3.7
+
 •	Anaconda 
-•	Visual Studio Code  
+
+•	Visual Studio Code 
+
 
 	LINK’S:
+
 •	Python : https://www.python.org/downloads/
+
 •	Anaconda : https://www.anaconda.com/downloads
+
 •	Visual Studio Code :  https://code.visualstudio.com/Download
 
 	Installing the required package’s:
+
 •	Pip install opencv
+
 •	Pip install pandas
+
 •	Pip install numpy
