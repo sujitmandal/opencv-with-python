@@ -4,6 +4,9 @@ Computer Vision with OpenCV
 Computer Vision is one of the hottest topics in artificial intelligence. It is making tremendous advances in self-driving cars, robotics as well as in various photo correction apps. Steady progress in object detection is being made every day. GANs is also a thing researchers are putting their eyes on these days. Vision is showing us the future of technology and we can’t even imagine what will be the end of its possibilities.
 So do you want to take your first step in Computer Vision and participate in this latest movement? Welcome you are at the right place. From this article, we’re going to have a series of tutorials on the basics of image processing and object detection.
 
+ Project Topic's:
+------------------
+
 1. Object Detection.
 2. Eye Detection.
 3. Motion Detection.
@@ -11,27 +14,50 @@ So do you want to take your first step in Computer Vision and participate in thi
 5. Compare Different Imagess.
 6. Different Colors Threshold.
 
-	Requirement’s:
+ Requirement’s:
+-----------------
 
-•	Python 3.7
+• Python 3.7
 
-•	Anaconda 
+• Anaconda
+----------
 
-•	Visual Studio Code 
+• Visual Studio Code
 
+ LINK’S:
+---------
 
-	LINK’S:
+• Python : 
+----------
+Download https://www.python.org/downloads/
 
-•	Python : https://www.python.org/downloads/
+• Anaconda : 
+------------
+Download https://www.anaconda.com/downloads
 
-•	Anaconda : https://www.anaconda.com/downloads
+• Visual Studio Code :
+----------------------
+Download https://code.visualstudio.com/Download
 
-•	Visual Studio Code :  https://code.visualstudio.com/Download
-
-	Installing the required package’s:
+ Installing the required package’s:
+-------------------------------------
 
 •	Pip install opencv
 
 •	Pip install pandas
 
 •	Pip install numpy
+
+License:
+--------
+MIT Licensed
+
+Author:
+-------
+Sujit Mandal
+
+LinkedIn : https://www.linkedin.com/in/sujit-mandal-91215013a/
+
+Facebook : https://www.facebook.com/sujit.mandal.33671748
+
+Twitter : https://twitter.com/mandalsujit37
