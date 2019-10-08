@@ -22,7 +22,6 @@ So do you want to take your first step in Computer Vision and participate in thi
 • Python 3.7
 
 • Anaconda
-----------
 
 • Visual Studio Code
 
@@ -44,11 +43,11 @@ Download https://code.visualstudio.com/Download
  Installing the required package’s:
 -------------------------------------
 
-•	Pip install opencv
+•	pip install opencv
 
-•	Pip install pandas
+•	pip install pandas
 
-•	Pip install numpy
+•	pip install numpy
 
 License:
 --------
