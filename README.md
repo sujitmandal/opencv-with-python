@@ -56,6 +56,8 @@ Download https://code.visualstudio.com/Download
  Installing the required package’s:
 -------------------------------------
 
+•	pip install opencv-python
+
 •	conda install opencv
 
 •	pip install pandas
