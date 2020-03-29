@@ -19,12 +19,12 @@ So do you want to take your first step in Computer Vision and participate in thi
 
  Output:
 ---------
-1.Face Detection :
-------------------
+Face Detection :
+----------------
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
  
-2.Face AnD Eye Detection:
--------------------------
+Face And Eye Detection:
+-----------------------
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face%20and%20Eye.png)
 
  Requirement’s:
@@ -48,6 +48,12 @@ Download https://www.python.org/downloads/
 Windows:
 -------
 • Download https://www.anaconda.com/downloads
+
+
+• How to install | Python | | Anaconda | | Opencv library |
+------------------------------------------------------------
+
+ https://www.youtube.com/watch?v=eVV3byQlYvA&t=9s
 
 Linux:
 ------
