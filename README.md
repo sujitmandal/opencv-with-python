@@ -17,6 +17,16 @@ So do you want to take your first step in Computer Vision and participate in thi
 5. Compare Different Imagess.
 6. Different Colors Threshold.
 
+ Output:
+---------
+1.Face Detection :
+------------------
+ ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
+ 
+2.Face AnD Eye Detection:
+-------------------------
+ ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face%20and%20Eye.png)
+
  Requirement’s:
 -----------------
 
