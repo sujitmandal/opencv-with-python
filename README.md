@@ -21,10 +21,6 @@ So do you want to take your first step in Computer Vision and participate in thi
 ---------
  Face Detection :
 ------------------
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "Everything Is AWESOME")
-
-
-
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
  
  Face And Eye Detection:
@@ -61,7 +57,7 @@ Windows:
 • How to install | Python | | Anaconda | | Opencv library |
 ------------------------------------------------------------
 
- https://www.youtube.com/watch?v=eVV3byQlYvA&t=9s
+ [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
 Linux:
 ------
