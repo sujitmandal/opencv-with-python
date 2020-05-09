@@ -21,7 +21,8 @@ So do you want to take your first step in Computer Vision and participate in thi
 ---------
  Face Detection :
 ------------------
-[(<iframewidth="560"height="315"src="https://www.youtube.com/embed/eVV3byQlYvA"frameborder="0"allow="accelerometer;autoplay;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
