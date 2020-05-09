@@ -21,7 +21,7 @@ So do you want to take your first step in Computer Vision and participate in thi
 ---------
  Face Detection :
 ------------------
-(https://www.youtube.com/watch?v=ysSxxIqKNN0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVV3byQlYvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
