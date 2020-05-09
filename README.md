@@ -22,6 +22,10 @@ So do you want to take your first step in Computer Vision and participate in thi
  Face Detection :
 ------------------
 (https://www.youtube.com/watch?v=ysSxxIqKNN0)
+
+
+
+
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
  
  Face And Eye Detection:
