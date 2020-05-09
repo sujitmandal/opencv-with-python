@@ -21,7 +21,7 @@ So do you want to take your first step in Computer Vision and participate in thi
 ---------
  Face Detection :
 ------------------
-[![Everything Is AWESOME](https://www.youtube.com/embed/eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "Everything Is AWESOME")
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "Everything Is AWESOME")
 
 
 
