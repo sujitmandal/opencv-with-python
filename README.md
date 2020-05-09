@@ -21,7 +21,7 @@ So do you want to take your first step in Computer Vision and participate in thi
 ---------
  Face Detection :
 ------------------
-![](https://github.com/sujitmandal/opencv-with-python/blob/master/Cars%20Detection/cars.mp4)
+ ![](https://www.youtube.com/watch?v=eVTXPUF4Oz4)
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
  
  Face And Eye Detection:
