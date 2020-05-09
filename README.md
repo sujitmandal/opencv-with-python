@@ -56,7 +56,6 @@ Windows:
 
 • How to install | Python | | Anaconda | | Opencv library |
 ------------------------------------------------------------
-
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
 Linux:
