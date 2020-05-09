@@ -19,6 +19,11 @@ So do you want to take your first step in Computer Vision and participate in thi
 
  Output:
 ---------
+ Cars Detection :
+------------------
+[![](https://yt-embed.herokuapp.com/embed?v=R5txKotYeMM )](https://www.youtube.com/watch?v=R5txKotYeMM )
+
+
  Face Detection :
 ------------------
  ![](https://github.com/sujitmandal/opencv-with-python/blob/master/Output/Face.png)
