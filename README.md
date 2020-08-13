@@ -39,7 +39,7 @@ So do you want to take your first step in Computer Vision and participate in thi
  Requirement’s:
 -----------------
 
-• Python 3.7
+• Python 
 
 • Anaconda
 
@@ -54,28 +54,26 @@ Download https://www.python.org/downloads/
 
 • Anaconda : 
 ------------
-Windows:
--------
+
 • Download https://www.anaconda.com/downloads
 
+• Visual Studio Code :
+----------------------
+Download https://code.visualstudio.com/Download
+
+•Linux:
+------
+How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
+---------------------------------------------------------------------------------------------
+ [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
+
+• Windows:
+-------
 
 • How to install | Python | | Anaconda | | Opencv library |
 ------------------------------------------------------------
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
-Linux:
-------
-Command:
--------
-• " wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh "
-
-• " bash Anaconda3-5.3.1-Linux-x86_64.sh "
-
-• " conda update anaconda "
-
-• Visual Studio Code :
-----------------------
-Download https://code.visualstudio.com/Download
 
  Installing the required package’s:
 -------------------------------------
